@@ -7,4 +7,4 @@ Initial release. A simple workflow with support for composing, searching and ope
 
 Please don't hesitate to request features or make any other suggestions!
 
-[Download the workflow](https://github.com/JustinTBrown/alfred-mailbox/releases/download/v0.1/Mailbox.alfredworkflow)
+[Download the workflow](https://github.com/JustinTBrown/alfred-mailbox/releases/download/v0.11/Mailbox.alfredworkflow)
